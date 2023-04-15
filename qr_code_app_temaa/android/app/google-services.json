@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "673920635231",
+    "project_id": "barkod-project-34684",
+    "storage_bucket": "barkod-project-34684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673920635231:android:bb3cb4c9f1938b627666ea",
+        "android_client_info": {
+          "package_name": "com.example.qr_code_app_temaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673920635231-m6d1eo1cujirart5a7f0mhuafrosarla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxBxCFcuQ3ICT3g_Zije0Ze92Y6wEkyqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673920635231-m6d1eo1cujirart5a7f0mhuafrosarla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673920635231-qlp268rt5udslu7jov31ajj6rt52i0pg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrCodeAppTemaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
